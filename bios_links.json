@@ -1,31 +1,11 @@
 [
   {
     "brand": "ASUS",
-    "chipset": "Z890",
-    "series": "ROG Maximus",
-    "model": "ROG MAXIMUS Z890 EXTREME",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-extreme/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z890",
-    "series": "ROG Maximus",
-    "model": "ROG MAXIMUS Z890 APEX",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-apex/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z890",
-    "series": "ROG Maximus",
-    "model": "ROG MAXIMUS Z890 HERO",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-hero/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z890",
-    "series": "ROG Maximus",
-    "model": "ROG MAXIMUS Z890 HERO BTF",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z890-hero-btf/helpdesk_bios/"
+    "chipset": "B760",
+    "series": "AYW",
+    "model": "B760M AYW WIFI D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/b760m-ayw-wifi-d4/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
@@ -33,13 +13,6 @@
     "series": "ROG Strix",
     "model": "ROG STRIX Z890-E GAMING WIFI",
     "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z890-e-gaming-wifi/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z890",
-    "series": "ROG Strix",
-    "model": "ROG STRIX Z890-F GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z890-f-gaming-wifi/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
@@ -543,7 +516,8 @@
     "chipset": "B860",
     "series": "AYW",
     "model": "B860M AYW GAMING WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/ayw-b860m-gaming-wifi/helpdesk_bios/"
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/b860m-ayw-gaming-wifi/helpdesk_bios?model2Name=B860M-AYW-GAMING-WIFI",
+    "notes": ""
   },
   {
     "brand": "ASUS",
@@ -697,14 +671,8 @@
     "chipset": "B760",
     "series": "AYW",
     "model": "B760M AYW WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/ayw-b760m-wifi/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B760",
-    "series": "AYW",
-    "model": "B760M AYW WIFI D4 II",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/ayw-b760m-wifi-d4-ii/helpdesk_bios/"
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/b760m-ayw-wifi/helpdesk_bios?model2Name=B760M-AYW-WIFI",
+    "notes": ""
   },
   {
     "brand": "ASUS",
@@ -803,7 +771,8 @@
     "chipset": "B850",
     "series": "AYW",
     "model": "B850M AYW GAMING WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/ayw-b850m-gaming-wifi/helpdesk_bios/"
+    "link": "https://www.asus.com/motherboards-components/motherboards/others/b850m-ayw-gaming-wifi/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
