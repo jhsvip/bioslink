@@ -82,98 +82,89 @@
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 EXTREME",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-extreme/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z790",
-    "series": "ROG Maximus",
-    "model": "ROG MAXIMUS Z790 EXTREME GLACIAL",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-extreme-glacial/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-extreme-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 FORMULA",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-formula/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-formula/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 APEX",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-apex/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-apex-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 HERO",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-hero/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-hero-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 HERO EVA-02 EDITION",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-hero-eva-02-edition/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-hero-eva-02-edition/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z790 DARK HERO",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-dark-hero/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z790-dark-hero/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-E GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-e-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-e-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-E GAMING WIFI II",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-e-gaming-wifi-ii/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-e-gaming-wifi-ii/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-F GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-f-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-f-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-A GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-A GAMING WIFI II",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-ii/helpdesk_bios/"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "Z790",
-    "series": "ROG Strix",
-    "model": "ROG STRIX Z790-G GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-g-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-ii/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "Z790",
     "series": "ROG Strix",
     "model": "ROG STRIX Z790-I GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-i-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-i-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
@@ -271,77 +262,77 @@
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 EXTREME",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-extreme/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-extreme-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 EXTREME GLACIAL",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-extreme-glacial/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-extreme-glacial-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 FORMULA",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-formula/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-formula-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 APEX",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-apex/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-apex-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 HERO",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-hero/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-hero-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Maximus",
     "model": "ROG MAXIMUS Z690 HERO EVA EDITION",
-    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-hero-eva-edition/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-hero-eva-edition-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Strix",
     "model": "ROG STRIX Z690-E GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-e-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-e-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Strix",
     "model": "ROG STRIX Z690-F GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-f-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-f-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Strix",
     "model": "ROG STRIX Z690-A GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-a-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-a-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Strix",
     "model": "ROG STRIX Z690-G GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-g-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-g-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "Z690",
     "series": "ROG Strix",
     "model": "ROG STRIX Z690-I GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-i-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-i-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
@@ -446,7 +437,8 @@
     "chipset": "B860",
     "series": "ROG Strix",
     "model": "ROG STRIX B860-G GAMING WIFI S",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b860-g-gaming-wifi-s/helpdesk_bios/"
+    "link": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b860-g-gaming-wifi-s/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
@@ -524,35 +516,36 @@
     "chipset": "B760",
     "series": "ROG Strix",
     "model": "ROG STRIX B760-A GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-a-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-a-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "B760",
     "series": "ROG Strix",
     "model": "ROG STRIX B760-A GAMING WIFI D4",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-a-gaming-wifi-d4/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-a-gaming-wifi-d4-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "B760",
     "series": "ROG Strix",
     "model": "ROG STRIX B760-F GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-f-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-f-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "B760",
     "series": "ROG Strix",
     "model": "ROG STRIX B760-G GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-g-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-g-gaming-wifi/helpdesk_bios/",
+    "notes": ""
   },
   {
     "brand": "ASUS",
     "chipset": "B760",
     "series": "ROG Strix",
     "model": "ROG STRIX B760-I GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-i-gaming-wifi/helpdesk_bios/"
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b760-i-gaming-wifi-model/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
@@ -808,5 +801,130 @@
     "series": "TX GAMING",
     "model": "TX GAMING B850M WIFI S 初音未来版",
     "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/tx-gaming-b850m-wifi-s-hatsune-miku-edition/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "ROG Strix",
+    "model": "ROG STRIX B850-A GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "ROG Strix",
+    "model": "ROG STRIX B850-I GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b850-i-gaming-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "ROG Crosshair",
+    "model": "ROG CROSSHAIR B850E HERO",
+    "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-b850e-hero/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "ROG Crosshair",
+    "model": "ROG CROSSHAIR B850-I GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-b850-i-gaming-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "ROG Strix",
+    "model": "ROG STRIX B650E-E GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-e-gaming-wifi-model/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "ROG Strix",
+    "model": "ROG STRIX B650-A GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "ROG Strix",
+    "model": "ROG STRIX B650E-I GAMING WIFI",
+    "link": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi-model/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-e-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-plus-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-e-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "Prime",
+    "model": "PRIME B650-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650-plus-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "Prime",
+    "model": "PRIME B650M-A WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-a-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "Prime",
+    "model": "PRIME B650M-K WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-k-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "ProArt",
+    "model": "ProArt B650-CREATOR WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/proart/proart-b650-creator-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "AYW",
+    "model": "B650M AYW  WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/b650m-ayw-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TX GAMING",
+    "model": "TX GAMING B650EM WIFI W",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/tx-gaming-b650em-wifi-w/helpdesk_bios?model2Name=TX-GAMING-B650EM-WIFI-W",
+    "notes": ""
   }
 ]
