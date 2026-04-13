@@ -931,136 +931,144 @@
     "brand": "ASUS",
     "chipset": "H610",
     "series": "Prime",
+    "model": "PRIME H610M-D",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-d/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Prime",
+    "model": "PRIME H610M-A WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-a-wifi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Prime",
+    "model": "PRIME H610M-A",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-a/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Pro",
+    "model": "Pro H610T D4-CSM",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/csm/pro-h610t-d4-csm/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Prime",
+    "model": "PRIME H610M-E",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-e/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Prime",
+    "model": "PRIME H610M-R",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-r/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "Prime",
     "model": "PRIME H610M-K D4",
     "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-k-d4/helpdesk_bios/",
     "notes": ""
   },
   {
     "brand": "ASUS",
-    "chipset": "H610",
-    "series": "Prime",
-    "model": "PRIME H610M-A AX D4",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-a-ax-d4/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "H610",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING H610M-PLUS WIFI D4",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-h610m-plus-wifi-d4/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "H610",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING H610M-PLUS D4",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-h610m-plus-d4/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "H610",
-    "series": "ROG Strix",
-    "model": "ROG STRIX H610-I GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-h610-i-gaming-wifi/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "H610",
-    "series": "AYW",
-    "model": "H610M-AYW WIFI D4",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/h610m-ayw-wifi-d4/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
     "chipset": "B550",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING B550M-PLUS WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-plus-wifi/helpdesk_bios/",
-    "notes": "一代WiFi版"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING B550M-PLUS",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-plus/helpdesk_bios/",
-    "notes": "无WiFi版"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING B550-PLUS WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus-wifi/helpdesk_bios/",
-    "notes": "ATX大板"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "TUF Gaming",
-    "model": "TUF GAMING B550-PLUS",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus/helpdesk_bios/",
-    "notes": "ATX大板无WiFi"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "ROG Strix",
-    "model": "ROG STRIX B550-A GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-a-gaming-wifi/helpdesk_bios/",
-    "notes": "白色主题"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "ROG Strix",
-    "model": "ROG STRIX B550-F GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi/helpdesk_bios/",
-    "notes": "黑色主题"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "ROG Strix",
-    "model": "ROG STRIX B550-I GAMING WIFI",
-    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-i-gaming-wifi/helpdesk_bios/",
-    "notes": "ITX小板"
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "Prime",
-    "model": "PRIME B550M-A WIFI",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b550m-a-wifi/helpdesk_bios/",
-    "notes": ""
-  },
-  {
-    "brand": "ASUS",
-    "chipset": "B550",
-    "series": "Prime",
-    "model": "PRIME B550M-A",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b550m-a/helpdesk_bios/",
-    "notes": ""
+    "series": "ProArt",
+    "model": "ProArt B550-CREATOR",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/proart/proart-b550-creator/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "B550",
     "series": "Prime",
     "model": "PRIME B550-PLUS",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b550-plus/helpdesk_bios/",
-    "notes": "ATX大板"
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b550-plus/helpdesk_bios/"
   },
   {
     "brand": "ASUS",
     "chipset": "B550",
-    "series": "ProArt",
-    "model": "PRO ART B550-CREATOR",
-    "link": "https://www.asus.com.cn/motherboards-components/motherboards/proart/pro-art-b550-creator/helpdesk_bios/",
-    "notes": "创作者系列"
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550-PRO",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-pro/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550-PLUS",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550-PLUS WIFI II",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus-wifi-ii/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550-PLUS (WI-FI)",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus-wi-fi/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "Prime",
+    "model": "PRIME B550M-A WIFI II",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b550m-a-wifi-ii/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550M-E",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-e/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550M-PLUS WIFI II",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-plus-wifi-ii/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550M-PLUS WIFI 鬼灭之刃限定版",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-plus-wifi-gmzr/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "h610",
+    "series": "Prime",
+    "model": "PRIME H610M-K D4 ARGB",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-k-d4-argb/helpdesk_bios?model2Name=PRIME-H610M-K-D4-ARGB",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "h610",
+    "series": "PRIME",
+    "model": "PRIME H610M-F D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-f-d4/helpdesk_bios/?model2Name=PRIME-H610M-F-D4",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "PRIME",
+    "model": "PRIME H610M-F D4 R2.0",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-f-d4-r2-0/helpdesk_bios/?model2Name=PRIME-H610M-F-D4-R2-0",
+    "notes": ""
   }
 ]
