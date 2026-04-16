@@ -1071,108 +1071,884 @@
     "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-h610m-f-d4-r2-0/helpdesk_bios/?model2Name=PRIME-H610M-F-D4-R2-0",
     "notes": ""
   },
-    {
-        "brand": "ASUS",
-        "chipset": "B850",
-        "series": "AYW",
-        "model": "B850M-AYW-GAMING-OC-WIFI7-W",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/b850m-ayw-gaming-oc-wifi7-w/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "H610",
-        "series": "AYW",
-        "model": "H610M-AYW-D4",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/h610m-ayw-d4/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "AYW",
-        "model": "Z790-AYW-OC-WIFI",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z790-ayw-oc-wifi/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "AYW",
-        "model": "Z790-AYW-WIFI-W-II",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z790-ayw-wifi-w-ii/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z890",
-        "series": "AYW",
-        "model": "Z890-AYW-GAMING-WIFI-W",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z890-ayw-gaming-wifi-w/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "B650",
-        "series": "PRIME",
-        "model": "PRIME-B650M-F",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-f/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "B650",
-        "series": "PRIME",
-        "model": "PRIME B650M-K",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-k/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "B650",
-        "series": "PRIME",
-        "model": "PRIME B650M-R",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-r/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "B850",
-        "series": "PRIME",
-        "model": "PRIME-B850-PLUS-WIFI",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b850-plus-wifi/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "PRIME",
-        "model": "PRIME-Z790-P",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "PRIME",
-        "model": "PRIME-Z790-P-D4",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-d4/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "PRIME",
-        "model": "PRIME-Z790-P-WIFI",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-wifi/helpdesk_bios/",
-        "notes": ""
-    },
-    {
-        "brand": "ASUS",
-        "chipset": "Z790",
-        "series": "PRIME",
-        "model": "PRIME-Z790-P-WIFI-D4",
-        "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-wifi-d4/helpdesk_bios/",
-        "notes": ""
-    }
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "AYW",
+    "model": "B850M-AYW-GAMING-OC-WIFI7-W",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/b850m-ayw-gaming-oc-wifi7-w/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "H610",
+    "series": "AYW",
+    "model": "H610M-AYW-D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/h610m-ayw-d4/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "AYW",
+    "model": "Z790-AYW-OC-WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z790-ayw-oc-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "AYW",
+    "model": "Z790-AYW-WIFI-W-II",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z790-ayw-wifi-w-ii/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z890",
+    "series": "AYW",
+    "model": "Z890-AYW-GAMING-WIFI-W",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/ayw/z890-ayw-gaming-wifi-w/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "PRIME",
+    "model": "PRIME-B650M-F",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-f/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "PRIME",
+    "model": "PRIME B650M-K",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-k/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "PRIME",
+    "model": "PRIME B650M-R",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b650m-r/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "PRIME",
+    "model": "PRIME-B850-PLUS-WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-b850-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "PRIME",
+    "model": "PRIME-Z790-P",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "PRIME",
+    "model": "PRIME-Z790-P-D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-d4/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "PRIME",
+    "model": "PRIME-Z790-P-WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z790",
+    "series": "PRIME",
+    "model": "PRIME-Z790-P-WIFI-D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/prime/prime-z790-p-wifi-d4/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870E",
+    "series": "ROG Crosshair",
+    "model": "ROG CROSSHAIR X870E APEX",
+    "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-apex/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870E",
+    "series": "ROG Crosshair",
+    "model": "ROG CROSSHAIR X870E HERO",
+    "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870",
+    "series": "ROG Strix",
+    "model": "ROG STRIX X870-A GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870-a-gaming-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870",
+    "series": "ROG Strix",
+    "model": "ROG STRIX X870-A GAMING WIFI S",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870-a-gaming-wifi-s/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870E",
+    "series": "ROG Strix",
+    "model": "ROG STRIX X870E-E GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870",
+    "series": "ROG Strix",
+    "model": "ROG STRIX X870-F GAMING WIFI",
+    "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870-f-gaming-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B550",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B550M-PLUS WIFI II",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550m-plus-wifi-ii/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-e-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-E",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-e/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-e-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-PLUS",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-plus/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B650",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B650M-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650m-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B760",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B760M-PLUS D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760m-plus-d4/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B760",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B760M-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760m-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B760",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B760M-PLUS WIFI D4",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760m-plus-wifi-d4/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B760",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B760-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-e-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850M-E WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-e-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850M-PLUS",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850M-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850M-PLUS WIFI7",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi7/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850M-PLUS WIFI7 W",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850m-plus-wifi7-w/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B850-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B860",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B860M-PLUS",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b860m-plus/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B860",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B860M-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b860m-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B860",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING B860-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b860-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "X870",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING X870-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "Z890",
+    "series": "TUF Gaming",
+    "model": "TUF GAMING Z890-PLUS WIFI",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/tuf-gaming/tuf-gaming-z890-plus-wifi/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "MAX GAMING",
+    "model": "B850 MAX GAMING WIFI W",
+    "link": "https://www.asus.com.cn/motherboards-components/motherboards/others/b850-max-gaming-wifi-w/helpdesk_bios/",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "Terminator",
+    "model": "MS-Terminator B760M GKD5 ICE/DARK",
+    "link": "https://www.maxsun.com.cn/2024/0730/6243.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "Terminator",
+    "model": "MS-Terminator B760M D4 WIFI",
+    "link": "http://www.maxsun.com.cn/2022/1226/5864.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "Terminator",
+    "model": "MS-Terminator B760M D4",
+    "link": "https://www.maxsun.com.cn/2023/0201/5878.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "MS-B760M GAMING WIFI ACE",
+    "link": "https://www.maxsun.com.cn/2023/0803/6046.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "MS-B760M GAMING WIFI ACE D4 II",
+    "link": "https://www.maxsun.com.cn/2025/0324/6440.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "H610",
+    "series": "Challenger",
+    "model": "MS-挑战者 H610M-R",
+    "link": "https://www.maxsun.com.cn/2023/0404/5956.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B650",
+    "series": "Terminator",
+    "model": "MS-Terminator B650M WIFI6/MS-Terminator B650M",
+    "link": "https://www.maxsun.com.cn/2024/1107/6332.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B550",
+    "series": "GAMING",
+    "model": "MS-B550M GAMING WIFI",
+    "link": "https://www.maxsun.com.cn/2025/0318/6433.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "MS-B760M GAMING WIFI D5",
+    "link": "https://www.maxsun.com.cn/2023/0803/6046.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "A520",
+    "series": "Challenger",
+    "model": "MS-Challenger A520M-K",
+    "link": "https://www.maxsun.com.cn/2023/0530/5991.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B650",
+    "series": "Challenger",
+    "model": "MS-Challenger B650M WIFI ICE",
+    "link": "https://www.maxsun.com.cn/2024/0621/6228.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "H610",
+    "series": "Challenger",
+    "model": "MS-Challenger H610M",
+    "link": "https://www.maxsun.com.cn/2023/0404/5956.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B650",
+    "series": "eSport",
+    "model": "MS-eSport B650M",
+    "link": "https://www.maxsun.com.cn/2024/1107/6332.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "H610",
+    "series": "GAMING",
+    "model": "MS-H610M 666 WiFi",
+    "link": "https://www.maxsun.com.cn/2023/0404/5956.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "H610",
+    "series": "GAMING",
+    "model": "MS-H610M 666 WiFi6",
+    "link": "https://www.maxsun.com.cn/2023/0404/5956.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "H610",
+    "series": "GAMING",
+    "model": "MS-H610M 666 WiFi6 ARGB",
+    "link": "https://www.maxsun.com.cn/2023/0404/5956.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "Terminator",
+    "model": "MS-Terminator B760M D4 ICE",
+    "link": "https://www.maxsun.com.cn/2022/1226/5864.html",
+    "notes": ""
+  },
+  {
+    "brand": "MAXSUN",
+    "chipset": "B760",
+    "series": "Terminator",
+    "model": "MS-Terminator B760M D5",
+    "link": "https://www.maxsun.com.cn/2024/0730/6243.html",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760 TOMAHAWK WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-B760-TOMAHAWK-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760 TOMAHAWK WIFI DDR4",
+    "link": "https://www.msi.com/Motherboard/MAG-B760-TOMAHAWK-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760M MORTAR WIFI",
+    "link": "https://www.msi.cn/Motherboard/MAG-B760M-MORTAR-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760M MORTAR WIFI DDR4",
+    "link": "https://www.msi.cn/Motherboard/MAG-B760M-MORTAR-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760M MORTAR WIFI II",
+    "link": "https://www.msi.cn/Motherboard/MAG-B760M-MORTAR-WIFI-II/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MAG",
+    "model": "MAG B760M MORTAR MAX WIFI",
+    "link": "https://www.msi.cn/Motherboard/MAG-B760M-MORTAR-MAX-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MPG",
+    "model": "MPG B760M EDGE TI WIFI",
+    "link": "https://www.msi.cn/Motherboard/MPG-B760M-EDGE-TI-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MPG",
+    "model": "MPG B760I EDGE WIFI",
+    "link": "https://www.msi.cn/Motherboard/MPG-B760I-EDGE-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "MPG",
+    "model": "MPG B760I EDGE WIFI DDR4",
+    "link": "https://www.msi.cn/Motherboard/MPG-B760I-EDGE-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760 GAMING PLUS WIFI",
+    "link": "https://www.msi.cn/Motherboard/B760-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760M GAMING PLUS WIFI",
+    "link": "https://www.msi.cn/Motherboard/B760M-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760M GAMING PLUS WIFI GEN5 II",
+    "link": "https://www.msi.com/Motherboard/B760M-GAMING-PLUS-WIFI-GEN5-II/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "PRO",
+    "model": "PRO B760M-B",
+    "link": "https://www.msi.cn/Motherboard/PRO-B760M-B/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "PRO",
+    "model": "PRO B760M-E",
+    "link": "https://www.msi.cn/Motherboard/PRO-B760M-E/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "PRO",
+    "model": "PRO B760M-E DDR4",
+    "link": "https://www.msi.cn/Motherboard/PRO-B760M-E-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B760",
+    "series": "PRO",
+    "model": "PRO B760M-P DDR4",
+    "link": "https://www.msi.cn/Motherboard/PRO-B760M-P-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "MAG",
+    "model": "MAG B660 TOMAHAWK WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-B660-TOMAHAWK-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "MAG",
+    "model": "MAG B660M MORTAR WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "MAG",
+    "model": "MAG B660M MORTAR WIFI DDR4",
+    "link": "https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "GAMING",
+    "model": "B660 GAMING PLUS WIFI",
+    "link": "https://www.msi.com/Motherboard/B660-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "GAMING",
+    "model": "B660M GAMING PLUS WIFI",
+    "link": "https://www.msi.com/Motherboard/B660M-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "PRO",
+    "model": "PRO B660-A WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-B660-A-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "B660",
+    "series": "PRO",
+    "model": "PRO B660M-A WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-B660M-A-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "MPG",
+    "model": "MPG Z790 CARBON WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z790-CARBON-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "MPG",
+    "model": "MPG Z790I EDGE WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z790I-EDGE-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "MAG",
+    "model": "MAG Z790 TOMAHAWK WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "MAG",
+    "model": "MAG Z790M MORTAR WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-Z790M-MORTAR-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "GAMING",
+    "model": "Z790 GAMING PLUS WIFI",
+    "link": "https://www.msi.com/Motherboard/Z790-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "GAMING",
+    "model": "Z790M GAMING PLUS WIFI",
+    "link": "https://www.msi.com/Motherboard/Z790M-GAMING-PLUS-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "PRO",
+    "model": "PRO Z790-P WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-Z790-P-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z790",
+    "series": "PRO",
+    "model": "PRO Z790-P WIFI DDR4",
+    "link": "https://www.msi.com/Motherboard/PRO-Z790-P-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "MAG",
+    "model": "MAG Z690 TOMAHAWK WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-Z690-TOMAHAWK-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "MAG",
+    "model": "MAG Z690 TOMAHAWK WIFI DDR4",
+    "link": "https://www.msi.com/Motherboard/MAG-Z690-TOMAHAWK-WIFI-DDR4/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "MAG",
+    "model": "MAG Z690M MORTAR WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-Z690M-MORTAR-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "MPG",
+    "model": "MPG Z690 CARBON WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z690-CARBON-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "MPG",
+    "model": "MPG Z690 EDGE TI WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z690-EDGE-TI-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "PRO",
+    "model": "PRO Z690-A WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-Z690-A-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z690",
+    "series": "PRO",
+    "model": "PRO Z690-P WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-Z690-P-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "MEG",
+    "model": "MEG Z890 ACE",
+    "link": "https://www.msi.com/Motherboard/MEG-Z890-ACE/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "MEG",
+    "model": "MEG Z890 GODLIKE",
+    "link": "https://www.msi.com/Motherboard/MEG-Z890-GODLIKE/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "MPG",
+    "model": "MPG Z890 CARBON WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z890-CARBON-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "MPG",
+    "model": "MPG Z890 EDGE TI WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-Z890-EDGE-TI-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "MAG",
+    "model": "MAG Z890 TOMAHAWK WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-Z890-TOMAHAWK-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "PRO",
+    "model": "PRO Z890-A WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-Z890-A-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "Z890",
+    "series": "PRO",
+    "model": "PRO Z890-P WIFI",
+    "link": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "X870E",
+    "series": "MEG",
+    "model": "MEG X870E GODLIKE",
+    "link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "X870E",
+    "series": "MEG",
+    "model": "MEG X870E ACE MAX",
+    "link": "https://www.msi.com/Motherboard/MEG-X870E-ACE-MAX/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "X870E",
+    "series": "MPG",
+    "model": "MPG X870I EDGE TI EVO WIFI",
+    "link": "https://www.msi.com/Motherboard/MPG-X870I-EDGE-TI-EVO-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "X870E",
+    "series": "MAG",
+    "model": "MAG X870E TOMAHAWK MAX WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-X870E-TOMAHAWK-MAX-WIFI/support",
+    "notes": ""
+  },
+  {
+    "brand": "MSI",
+    "chipset": "X870E",
+    "series": "MAG",
+    "model": "MAG X870E GAMING PLUS MAX WIFI",
+    "link": "https://www.msi.com/Motherboard/MAG-X870E-GAMING-PLUS-MAX-WIFI/support",
+    "notes": ""
+  }
 ]
