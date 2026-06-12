@@ -813,6 +813,13 @@
     "brand": "ASUS",
     "chipset": "B850",
     "series": "ROG Strix",
+    "model": "ROG STRIX B850-A GAMING WIFI S",
+    "link": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b850-a-gaming-wifi-s/helpdesk_bios/"
+  },
+  {
+    "brand": "ASUS",
+    "chipset": "B850",
+    "series": "ROG Strix",
     "model": "ROG STRIX B850-I GAMING WIFI",
     "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b850-i-gaming-wifi/helpdesk_bios/"
   },
