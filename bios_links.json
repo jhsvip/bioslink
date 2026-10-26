@@ -2251,48 +2251,120 @@
     "brand": "GIGABYTE",
     "chipset": "Z890",
     "series": "AORUS",
-    "model": "Z890 AORUS ELITE WIFI",
-    "link": "https://www.gigabyte.cn/Motherboard/Z890-AORUS-ELITE-WIFI/support#support-dl-bios",
+    "model": "Z890 AORUS ELITE WIFI7 ICE",
+    "link": "https://www.gigabyte.cn/Motherboard/Z890-AORUS-ELITE-WIFI7-ICE/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z890",
     "series": "GAMING",
-    "model": "Z890 GAMING X WIFI",
-    "link": "https://www.gigabyte.cn/Motherboard/Z890-GAMING-X-WIFI/support#support-dl-bios",
+    "model": "Z890 GAMING X WIFI7",
+    "link": "https://www.gigabyte.cn/Motherboard/Z890-GAMING-X-WIFI7/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z890",
     "series": "AORUS",
-    "model": "Z890M AORUS ELITE WIFI",
-    "link": "https://www.gigabyte.cn/Motherboard/Z890M-AORUS-ELITE-WIFI/support#support-dl-bios",
+    "model": "Z890M AORUS ELITE WIFI7 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z890M-AORUS-ELITE-WIFI7-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z890",
+    "series": "AORUS",
+    "model": "Z890M AORUS ELITE WIFI7 ICE",
+    "link": "https://www.gigabyte.cn/Motherboard/Z890M-AORUS-ELITE-WIFI7-ICE/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z790",
     "series": "AORUS",
-    "model": "Z790 AORUS ELITE AX",
-    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX/support#support-dl-bios",
+    "model": "Z790 AORUS ELITE AX (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790 AORUS ELITE AX (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790 AORUS ELITE AX ICE 1.0",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX-ICE-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790 AORUS ELITE AX ICE 1.1",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX-ICE-11/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790 AORUS ELITE AX-W (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-AORUS-ELITE-AX-W-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z790",
     "series": "GAMING",
-    "model": "Z790 GAMING X AX",
-    "link": "https://www.gigabyte.cn/Motherboard/Z790-GAMING-X-AX/support#support-dl-bios",
+    "model": "Z790 GAMING X AX (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-GAMING-X-AX-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "GAMING",
+    "model": "Z790 GAMING X AX (rev. 2.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790-GAMING-X-AX-rev-2x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z790",
     "series": "AORUS",
-    "model": "Z790M AORUS ELITE AX",
-    "link": "https://www.gigabyte.cn/Motherboard/Z790M-AORUS-ELITE-AX/support#support-dl-bios",
+    "model": "Z790M AORUS ELITE AX (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790M-AORUS-ELITE-AX-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790M AORUS ELITE AX (rev. 1.1)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790M-AORUS-ELITE-AX-rev-11/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790M AORUS ELITE AX (rev. 1.2)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790M-AORUS-ELITE-AX-rev-12/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z790",
+    "series": "AORUS",
+    "model": "Z790M AORUS ELITE AX ICE",
+    "link": "https://www.gigabyte.cn/Motherboard/Z790M-AORUS-ELITE-AX-ICE/support#support-dl-bios",
     "notes": ""
   },
   {
@@ -2301,174 +2373,366 @@
     "series": "GAMING",
     "model": "Z790M GAMING X AX",
     "link": "https://www.gigabyte.cn/Motherboard/Z790M-GAMING-X-AX/support#support-dl-bios",
+    "notes": "[待核对:技嘉官网未收录此型号]"
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z690",
+    "series": "AORUS",
+    "model": "Z690 AORUS ELITE AX DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z690-AORUS-ELITE-AX-DDR4-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z690",
     "series": "AORUS",
-    "model": "Z690 AORUS ELITE AX DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/Z690-AORUS-ELITE-AX-DDR4/support#support-dl-bios",
+    "model": "Z690 AORUS ELITE AX DDR4 V2 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z690-AORUS-ELITE-AX-DDR4-V2-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z690",
     "series": "GAMING",
-    "model": "Z690 GAMING X DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/Z690-GAMING-X-DDR4/support#support-dl-bios",
+    "model": "Z690 GAMING X DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z690-GAMING-X-DDR4-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "Z690",
+    "series": "GAMING",
+    "model": "Z690 GAMING X DDR4 V2 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z690-GAMING-X-DDR4-V2-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "Z690",
     "series": "AORUS",
-    "model": "Z690M AORUS ELITE AX DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/Z690M-AORUS-ELITE-AX-DDR4/support#support-dl-bios",
+    "model": "Z690M AORUS ELITE AX DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/Z690M-AORUS-ELITE-AX-DDR4-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "AORUS",
-    "model": "B760 AORUS ELITE",
-    "link": "https://www.gigabyte.cn/Motherboard/B760-AORUS-ELITE/support#support-dl-bios",
+    "model": "B760 AORUS ELITE AX (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-AORUS-ELITE-AX-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "GAMING",
-    "model": "B760 GAMING X",
-    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X/support#support-dl-bios",
+    "model": "B760 GAMING X (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760 GAMING X AX (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X-AX-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760 GAMING X DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X-DDR4-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760 GAMING X DDR4 GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X-DDR4-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760 GAMING X GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760-GAMING-X-GEN5/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "AORUS",
-    "model": "B760M AORUS ELITE",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE/support#support-dl-bios",
+    "model": "B760M AORUS ELITE (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "AORUS",
-    "model": "B760M AORUS ELITE WIFI6E",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-WIFI6E/support#support-dl-bios",
+    "model": "B760M AORUS ELITE DDR4 GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-DDR4-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "AORUS",
+    "model": "B760M AORUS ELITE GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "AORUS",
+    "model": "B760M AORUS ELITE WIFI6E DDR4 GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-WIFI6E-DDR4-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "AORUS",
+    "model": "B760M AORUS ELITE WIFI6E-P GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-AORUS-ELITE-WIFI6E-P-GEN5/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "Ultra Durable",
-    "model": "B760M D2H",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2H/support#support-dl-bios",
+    "model": "B760M D2H (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2H-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "Ultra Durable",
-    "model": "B760M DS3H",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-DS3H/support#support-dl-bios",
+    "model": "B760M D2HX LITE SI (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2HX-LITE-SI-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M D2HX SI (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2HX-SI-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M D2HX SI DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2HX-SI-DDR4-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M D2HX SI DDR4 5G",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-D2HX-SI-DDR4-5G/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M DS3H (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-DS3H-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M DS3H DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-DS3H-DDR4-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M DS3H GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-DS3H-GEN5/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "GAMING",
-    "model": "B760M GAMING X",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X/support#support-dl-bios",
+    "model": "B760M GAMING X (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "GAMING",
-    "model": "B760M GAMING X WIFI6E",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-WIFI6E/support#support-dl-bios",
+    "model": "B760M GAMING X DDR4 GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-DDR4-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760M GAMING X GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760M GAMING X WIFI6E DDR4 GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-WIFI6E-DDR4-GEN5/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "GAMING",
+    "model": "B760M GAMING X WIFI6E GEN5",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-GAMING-X-WIFI6E-GEN5/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B760",
     "series": "Ultra Durable",
-    "model": "B760M H",
-    "link": "https://www.gigabyte.cn/Motherboard/B760M-H/support#support-dl-bios",
+    "model": "B760M H (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-H-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B760",
+    "series": "Ultra Durable",
+    "model": "B760M H DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B760M-H-DDR4-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "GAMING",
-    "model": "B660 GAMING X DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660-GAMING-X-DDR4/support#support-dl-bios",
+    "model": "B660 GAMING X DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660-GAMING-X-DDR4-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "AORUS",
-    "model": "B660M AORUS ELITE DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660M-AORUS-ELITE-DDR4/support#support-dl-bios",
+    "model": "B660M AORUS ELITE DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660M-AORUS-ELITE-DDR4-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "AORUS",
-    "model": "B660M AORUS PRO AX DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660M-AORUS-PRO-AX-DDR4/support#support-dl-bios",
+    "model": "B660M AORUS PRO AX DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660M-AORUS-PRO-AX-DDR4-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "Ultra Durable",
-    "model": "B660M D2H DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660M-D2H-DDR4/support#support-dl-bios",
+    "model": "B660M D2H DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660M-D2H-DDR4-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "Ultra Durable",
-    "model": "B660M DS3H DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660M-DS3H-DDR4/support#support-dl-bios",
+    "model": "B660M DS3H DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660M-DS3H-DDR4-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B660",
     "series": "GAMING",
-    "model": "B660M GAMING X DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/B660M-GAMING-X-DDR4/support#support-dl-bios",
+    "model": "B660M GAMING X DDR4 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B660M-GAMING-X-DDR4-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "H610",
     "series": "Ultra Durable",
-    "model": "H610M H DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/H610M-H-DDR4/support#support-dl-bios",
+    "model": "H610M H DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-H-DDR4-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "H610",
     "series": "Ultra Durable",
-    "model": "H610M K DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/H610M-K-DDR4/support#support-dl-bios",
+    "model": "H610M H DDR4 (rev. 1.1/1.3)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-H-DDR4-rev-11-13/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "H610",
     "series": "Ultra Durable",
-    "model": "H610M S2H DDR4",
-    "link": "https://www.gigabyte.cn/Motherboard/H610M-S2H-DDR4/support#support-dl-bios",
+    "model": "H610M H DDR4 (rev. 1.2)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-H-DDR4-rev-12/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "H610",
+    "series": "Ultra Durable",
+    "model": "H610M K DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-K-DDR4-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "H610",
+    "series": "Ultra Durable",
+    "model": "H610M K DDR4 (rev. 2.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-K-DDR4-rev-20/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "H610",
+    "series": "Ultra Durable",
+    "model": "H610M S2H DDR4 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-S2H-DDR4-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "H610",
+    "series": "Ultra Durable",
+    "model": "H610M S2H DDR4 (rev. 1.1/1.3)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-S2H-DDR4-rev-11-13/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "H610",
+    "series": "Ultra Durable",
+    "model": "H610M S2H DDR4 (rev. 1.2)",
+    "link": "https://www.gigabyte.cn/Motherboard/H610M-S2H-DDR4-rev-12/support#support-dl-bios",
     "notes": ""
   },
   {
@@ -2483,72 +2747,160 @@
     "brand": "GIGABYTE",
     "chipset": "X870",
     "series": "AORUS",
-    "model": "X870M AORUS ELITE WIFI",
-    "link": "https://www.gigabyte.cn/Motherboard/X870M-AORUS-ELITE-WIFI/support#support-dl-bios",
+    "model": "X870M AORUS ELITE WIFI7",
+    "link": "https://www.gigabyte.cn/Motherboard/X870M-AORUS-ELITE-WIFI7/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "X870",
+    "series": "AORUS",
+    "model": "X870M AORUS ELITE WIFI7 ICE",
+    "link": "https://www.gigabyte.cn/Motherboard/X870M-AORUS-ELITE-WIFI7-ICE/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B850",
     "series": "AORUS",
-    "model": "B850 AORUS ELITE WIFI7",
-    "link": "https://www.gigabyte.cn/Motherboard/B850-AORUS-ELITE-WIFI7/support#support-dl-bios",
+    "model": "B850 AORUS ELITE WIFI7 (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850-AORUS-ELITE-WIFI7-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B850",
+    "series": "AORUS",
+    "model": "B850 AORUS ELITE WIFI7 ICE (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850-AORUS-ELITE-WIFI7-ICE-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B850",
     "series": "GAMING",
-    "model": "B850 GAMING X AX",
-    "link": "https://www.gigabyte.cn/Motherboard/B850-GAMING-X-AX/support#support-dl-bios",
+    "model": "B850 GAMING X WIFI6E (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850-GAMING-X-WIFI6E-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B850",
     "series": "AORUS",
-    "model": "B850M AORUS ELITE WIFI6E",
-    "link": "https://www.gigabyte.cn/Motherboard/B850M-AORUS-ELITE-WIFI6E/support#support-dl-bios",
+    "model": "B850M AORUS ELITE WIFI6E (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850M-AORUS-ELITE-WIFI6E-rev-1x/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B850",
+    "series": "AORUS",
+    "model": "B850M AORUS ELITE WIFI6E ICE (rev. 1.x)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850M-AORUS-ELITE-WIFI6E-ICE-rev-1x/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B850",
     "series": "Ultra Durable",
-    "model": "B850M DS3H",
-    "link": "https://www.gigabyte.cn/Motherboard/B850M-DS3H/support#support-dl-bios",
+    "model": "B850M DS3H (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850M-DS3H-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B850",
+    "series": "GAMING",
+    "model": "B850M GAMING X WIFI6E (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B850M-GAMING-X-WIFI6E-rev-10/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B550",
     "series": "AORUS",
-    "model": "B550 AORUS ELITE V2",
-    "link": "https://www.gigabyte.cn/Motherboard/B550-AORUS-ELITE-V2/support#support-dl-bios",
+    "model": "B550 AORUS ELITE V2 (rev. 1.0/1.1)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550-AORUS-ELITE-V2-rev-10-11/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B550",
     "series": "AORUS",
-    "model": "B550M AORUS ELITE V2",
-    "link": "https://www.gigabyte.cn/Motherboard/B550M-AORUS-ELITE-V2/support#support-dl-bios",
+    "model": "B550M AORUS ELITE AX (rev. 1.3)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-AORUS-ELITE-AX-rev-13/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "AORUS",
+    "model": "B550M AORUS ELITE AX (rev. 1.4)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-AORUS-ELITE-AX-rev-14/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B550",
     "series": "Ultra Durable",
-    "model": "B550M DS3H",
-    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H/support#support-dl-bios",
+    "model": "B550M DS3H (rev. 1.0/1.1/1.2/1.3)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H-rev-10-11-12-13/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "Ultra Durable",
+    "model": "B550M DS3H (rev. 1.4)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H-rev-14/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "Ultra Durable",
+    "model": "B550M DS3H (rev. 1.5)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H-rev-15/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "Ultra Durable",
+    "model": "B550M DS3H AC R2 (rev. 1.0)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H-AC-R2-rev-10/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "Ultra Durable",
+    "model": "B550M DS3H R2 (rev. 1.2)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-DS3H-R2-rev-12/support#support-dl-bios",
     "notes": ""
   },
   {
     "brand": "GIGABYTE",
     "chipset": "B550",
     "series": "GAMING",
-    "model": "B550M GAMING X",
-    "link": "https://www.gigabyte.cn/Motherboard/B550M-GAMING-X/support#support-dl-bios",
+    "model": "B550M GAMING X WIFI6 (rev. 1.0/1.1)",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-GAMING-X-WIFI6-rev-10-11/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "AORUS",
+    "model": "B550M X AORUS ELITE",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-X-AORUS-ELITE/support#support-dl-bios",
+    "notes": ""
+  },
+  {
+    "brand": "GIGABYTE",
+    "chipset": "B550",
+    "series": "AORUS",
+    "model": "B550M X AORUS ELITE WIFI7",
+    "link": "https://www.gigabyte.cn/Motherboard/B550M-X-AORUS-ELITE-WIFI7/support#support-dl-bios",
     "notes": ""
   },
   {
